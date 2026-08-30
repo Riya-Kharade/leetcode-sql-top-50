@@ -1,7 +1,7 @@
 # 176. Second Highest Salary
 
 ## Problem
-Find the second highest **distinct** salary from the `Employee` table.
+Find the second highest **Distinct** salary from the `Employee` table.
 
 If the second highest salary does not exist, return `NULL`.
 
