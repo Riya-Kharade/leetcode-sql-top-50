@@ -2,7 +2,7 @@
 
 My journey to master SQL through the **LeetCode SQL 50**.
 
-I am solving each problem, documenting the solution, and noting down the new SQL concepts I learn along the way.
+I am solving each problem, documenting the solution, and noting down the new SQL concepts I learn along the way .
 
 ## 🎯 Goals
 
