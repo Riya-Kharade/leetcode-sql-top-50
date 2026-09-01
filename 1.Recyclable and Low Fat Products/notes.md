@@ -120,6 +120,7 @@ WHERE low_fats = 'Y'
 
 -- Incorrect
 WHERE low_fats = Y
+
 ```
 
 ---
